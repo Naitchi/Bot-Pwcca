@@ -1,0 +1,25 @@
+# Dossiers
+/node_modules
+/dist
+/build
+/.vscode
+/.idea
+
+# Fichiers
+/.env
+/.env.local
+/.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de sauvegarde
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Fichiers de configuration
+/.eslintrc
+/.prettierrc
+/tsconfig.json
