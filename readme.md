@@ -29,7 +29,7 @@ Les contributions sont les bienvenues! Pour contribuer à ce projet, veuillez su
 
 ## Auteurs
 
-- Naitchi - [Github](https:/github.com/Naitchi) - [Twitter](https://twitter.com/Naitchiii)
+- Naitchi - [Github](Naitchi) - [Twitter](https://twitter.com/Naitchiii)
 
 ## Licence
 
